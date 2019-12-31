@@ -1,7 +1,7 @@
 from fedora.client.fas2 import AccountSystem
 import re
 
-fas = AccountSystem(username='suvid', password='Anoop@123')
+fas = AccountSystem(username='<Your FAS Username>', password='<Your FAS Password>')
 
 user_id = input()
 
